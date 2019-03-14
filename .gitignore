@@ -1,0 +1,7 @@
+
+# Idea Compiler and settings
+.idea
+*.iml
+
+# Jar Files
+target/
