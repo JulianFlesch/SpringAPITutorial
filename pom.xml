@@ -41,8 +41,9 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+	
     <build>
+	<sourceDirectory>src/dev/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
